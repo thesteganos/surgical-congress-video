@@ -1,0 +1,26 @@
+# Never commit patient data or surgical footage
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.dcm
+_MOSAICOS/
+_SLIDES/
+*paciente*
+*PACIENTE*
+
+# Build artefacts
+*.skill
+build/
+/tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
