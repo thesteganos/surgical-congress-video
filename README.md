@@ -77,7 +77,7 @@ This skill automates the technical and editorial work. **Medical content, surgic
 **Claude Code / Cowork** — copy this folder into your skills directory:
 
 ```bash
-git clone https://github.com/<your-user>/surgical-congress-video.git
+git clone https://github.com/thesteganos/surgical-congress-video.git
 cp -r surgical-congress-video ~/.claude/skills/
 ```
 
